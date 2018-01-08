@@ -484,11 +484,16 @@ nav {
 			font-size: 15px;
 			letter-spacing: 0.08em;
 			color: #fff;
+			padding: 3px 0;
 		}
 
 			#support h4 a {
 				color: #fff;	
 			}
+
+		.sharebuttons {
+			line-height: 0;
+		}
 
 /*Timeline*/
 
